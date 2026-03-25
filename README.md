@@ -52,7 +52,8 @@ Aplicativo Flutter que exibe um **cartão de visita digital personalizado**. A t
 
 ## 📸 Screenshots
 
-> _Adicione aqui os screenshots do app rodando após executar o projeto._
+<img width="831" height="589" alt="image" src="https://github.com/user-attachments/assets/b5ff9bb3-58f6-4fdc-a49c-ea071bc180f7" />
+
 
 <!-- Exemplo:
 ![Cartão de Visita](screenshots/cartao.png)
